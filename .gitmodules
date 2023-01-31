@@ -1,0 +1,3 @@
+[submodule "api"]
+	path = api
+	url = https://huggingface.co/spaces/geetu040/intelli-snake
